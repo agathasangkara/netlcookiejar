@@ -18,18 +18,20 @@ Lihat semua akun Netflix yang tersimpan, informasi profil, device aktif, dan kel
 Pada intinya Netflix Device manager adalah tool otomatis yang digunakan untuk mengelola akun netflix anda, dari profil , device etc
 
 # Changelog
+- Added cek device per profile
+- Added swicth profile
+- etc
 
-Home 
-!https://github.com/user-attachments/assets/cdce84bf-a011-4b4f-a1cd-6277813cbaf8
+# Home 
+![image](https://github.com/user-attachments/assets/cdce84bf-a011-4b4f-a1cd-6277813cbaf8)
 
-Get data profile
+# Get data profile
 ![image](https://github.com/user-attachments/assets/4e348c3b-ac5a-476f-8d3c-ad8d3b6e74f8)
 
-Swicth profile otomatis
+# Swicth profile otomatis
 ![image](https://github.com/user-attachments/assets/1f587dd9-84f6-4c52-b3f5-53780f81b692)
 
 # UPDATE SOON
-
 - Login menggunakan credential email & password / OTP
 - Ganti Pin profile
 - etc

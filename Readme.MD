@@ -20,6 +20,7 @@ Pada intinya Netflix Device manager adalah tool otomatis yang digunakan untuk me
 # Changelog
 - Added cek device per profile
 - Added swicth profile
+- Fixed all bugs
 - etc
 
 # Home 
@@ -39,6 +40,5 @@ Video : https://drive.google.com/file/d/1Xt7ksZUzf_SHbuffpblKVHLgAQMZ6Iks/view?u
 - Login menggunakan credential email & password / OTP
 - Ganti Pin profile
 - etc
-
 
 Bot : https://t.me/netfmanagebot

@@ -31,6 +31,10 @@ Pada intinya Netflix Device manager adalah tool otomatis yang digunakan untuk me
 # Swicth profile otomatis
 ![image](https://github.com/user-attachments/assets/1f587dd9-84f6-4c52-b3f5-53780f81b692)
 
+# Tutorial & Preview
+
+Video : https://drive.google.com/file/d/1Xt7ksZUzf_SHbuffpblKVHLgAQMZ6Iks/view?usp=sharing
+
 # UPDATE SOON
 - Login menggunakan credential email & password / OTP
 - Ganti Pin profile
